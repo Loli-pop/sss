@@ -36,7 +36,7 @@ jobs:
         working-directory: s3s
         run: |
           python3 s3s.py -nsr -r
-          zjR9YDLpJ100fhJSiLjxRoa39yJFrAIX0yzWH4BMh4U
+          new_api_key = input("stat.ink API key: zjR9YDLpJ100fhJSiLjxRoa39yJFrAIX0yzWH4BMh4U")
           ja-JP
           
           # python3 s3s.py -osr -r
